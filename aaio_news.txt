@@ -1,0 +1,73 @@
+<b>v0.4 update has been released!</b><br />
+The changelog for this version is already posted below.
+Meanwhile, here's the update link: <a href="https://mega.nz/#!1xBCVIbY!UdbSE1OWpNOPXvOODBpl7j3xMWCOAp_5XdiqJ8rwBYw">https://mega.nz/#!1xBCVIbY!UdbSE1OWpNOPXvOODBpl7j3xMWCOAp_5XdiqJ8rwBYw</a><br />
+Thank you all for your patience, and we hope you enjoy the game!<br />
+<br />
+
+<b>v0.4 update is coming out soon</b><br />
+You'll have noticed that the official server is now
+running the new 0.4 version of AIO; please be patient, the
+update will be announced soon, both here and the official Discord.<br />
+Thanks for playing AIO!<br />
+<br />
+
+<b>AIO is not dead!</b><br />
+In fact, the AIO 0.4 update is ready. I just need to find the
+right time to upload the full and update-only packages...<br />
+<br />
+Meanwhile, I'll be showing this version's changelog below:<ul>
+<li>Major in-game UI redesign</li>
+<li>You can now play music from http(s) streams</li>
+<li>Anti-lag spam for the game chat (you can safely hold enter on high ping)</li>
+<li>Audio settings and custom controls</li>
+<li>Dead clients that haven't disconnected are automatically kicked</li>
+<li>Penalty bars and WT/CE/verdict buttons</li>
+<li>Wall collision fixes (you no longer shake when stuck in a wall)</li>
+<li>Shownames! (From AO2 2.6)</li>
+<li>Phoenix now has new sprites (credits: Phoenix Wright#6816)</li>
+<li>Many (paranoid) fixes to server stability (still not perfect but it should work)</li>
+<li>You can now right-click an emote button for more options</li>
+<li>A new easter egg...</li>
+</ul><br />
+
+<b>0.3.2.1 update released</b><br />
+This update's purpose is to fix a bug in the client's
+character selection screen that was present in 0.3.2. It is
+compatible with all 0.3.2 servers.<br />
+<br />
+Download at <a href="http://tiny.cc/updateaio">http://tiny.cc/updateaio</a><br />
+<br />
+
+<b>0.3.2.1 progress report</b><br />
+Some of you might be seeing a bug in the 0.3.2 update where
+the character selection screen appears glitched out. This
+is now being looked at. Stay tuned.<br />
+<br />
+
+<b>0.3.2 update released</b><br />
+With the release of this update, I am also proud to announce
+that the main servers have been moved to a more active
+host! (shoutout to stonedDiscord)<br />
+<br />
+
+The main changes for this update are:<br />
+* NEW character selection screen<br />
+* This news tab<br />
+* Looping music<br />
+* Ping count ingame<br />
+* Settings dialog (the gear in the bottom left corner)<br />
+* Volume sliders<br />
+* Player count on the server and its' zones<br />
+<br />
+
+Some bug fixes for this update:<br />
+* Song now stops when disconnecting<br />
+* Added a character limit to the IC chat<br />
+* The white broadcast box now scales along with the text to
+make it fit inside<br />
+<br />
+Get the update at <a href="http://tiny.cc/updateaio">http://tiny.cc/updateaio</a><br />
+<br />
+
+<b>AIO news tab</b><br />
+Yes! This works! now I can keep you all updated<br />

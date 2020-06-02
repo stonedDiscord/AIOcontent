@@ -1,0 +1,2 @@
+127.0.0.1:27010:your server (port 27010):this is your server on port 27010.
+127.0.0.1:27017:your server (port 27017):this is your server on port 27017.
